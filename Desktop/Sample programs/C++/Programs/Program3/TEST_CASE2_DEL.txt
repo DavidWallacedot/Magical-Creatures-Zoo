@@ -1,0 +1,7 @@
+6
+1
+1
+new_my_creatures.txt
+3
+5
+n

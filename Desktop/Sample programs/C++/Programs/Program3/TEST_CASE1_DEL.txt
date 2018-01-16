@@ -1,0 +1,25 @@
+3
+4
+1
+2
+Elepig
+A cross between an elephant and a pig.  It is known to be a very kind and loving creature except between 3am to 4pm.  At 3am the elepig becomes onery and a huge prankster.  It will hide random foods in your bed, put spiders in your ears, and remove liquids from bottles in your refrigerator to refill them with urine.
+8
+6
+Cookeville, TN
+n
+2
+7.25
+25.80
+84.50
+1
+1
+my_creatures.txt
+3
+4
+2
+Beholder
+4
+5
+y
+new_my_creatures.txt
